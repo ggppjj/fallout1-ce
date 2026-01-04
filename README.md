@@ -1,3 +1,7 @@
+# my fork
+
+Just a lazy ass fork to pull the PRs I find nice and Alex doesn't pull as he's busy dying of gonorrhea or something
+
 # Fallout Community Edition
 
 Fallout Community Edition is a fully working re-implementation of Fallout, with the same original gameplay, engine bugfixes, and some quality of life improvements, that works (mostly) hassle-free on multiple platforms.
